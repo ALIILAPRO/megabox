@@ -12,7 +12,7 @@ MEGABOX, Project open source for get direct link from site mega.nz .
 [megabox.exe](http://)
 
 #### Screenshot
-![](https://github.com/ALIILAPRO/megabox/blob/master/sc/sc(1).png)
-![](https://github.com/ALIILAPRO/megabox/blob/master/sc/sc(2).png)
-![](https://github.com/ALIILAPRO/megabox/blob/master/sc/sc(3).png)
-![](https://github.com/ALIILAPRO/megabox/blob/master/sc/sc(4).png)
+![](https://github.com/ALIILAPRO/megabox/blob/master/Sc/sc(1).png)
+![](https://github.com/ALIILAPRO/megabox/blob/master/Sc/sc(2).png)
+![](https://github.com/ALIILAPRO/megabox/blob/master/Sc/sc(3).png)
+![](https://github.com/ALIILAPRO/megabox/blob/master/Sc/sc(4).png)
