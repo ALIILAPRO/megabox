@@ -7,12 +7,15 @@ Mega (stylised in uppercase as MEGA) is a cloud storage and file hosting service
 ### [!] About Project [MEGABOX](https://github.com/ALIILAPRO/megabox)
 MEGABOX, Project open source for get direct link from site mega.nz .
 
-#### 📥 Download .EXE App
+#### [DL] Download .EXE App
 🔑 Note: This App have digital signature from mega company.
 
 - [megabox.exe](http://bayanbox.ir/download/4988000854154271700/megabox.zip)
 
-#### Screenshot
+##### [?] How to use
+-https://www.youtube.com/watch?v=uId-qB9H2t8
+
+###### Screenshot
 ![](https://github.com/ALIILAPRO/megabox/blob/master/Sc/sc%20(1).png)
 ![](https://github.com/ALIILAPRO/megabox/blob/master/Sc/sc%20(2).png)
 ![](https://github.com/ALIILAPRO/megabox/blob/master/Sc/sc%20(3).png)
