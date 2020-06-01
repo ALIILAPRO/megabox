@@ -9,7 +9,8 @@ MEGABOX, Project open source for get direct link from site mega.nz .
 
 #### 📥 Download .EXE App
 🔑 Note: This App have digital signature from mega company.
-[megabox.exe](http://)
+
+- [megabox.exe](http://bayanbox.ir/download/4988000854154271700/megabox.zip)
 
 #### Screenshot
 ![](https://github.com/ALIILAPRO/megabox/blob/master/Sc/sc%20(1).png)
