@@ -5,8 +5,10 @@
 Mega (stylised in uppercase as MEGA) is a cloud storage and file hosting service offered by Mega Limited, an Auckland-based company.The service is offered primarily through web-based apps. Mega mobile apps are also available for Windows Phone, Android and iOS. Mega is known for its large 50 GB storage allocation for free accounts. [Read more](https://en.wikipedia.org/wiki/Mega_(service))
 
 ### [!] About Project [MEGABOX](https://github.com/ALIILAPRO/megabox)
-MEGABOX, Project open source for get direct link from site mega.nz
+MEGABOX, Project open source for get direct link from site mega.nz .
 
 #### 📥 Download .EXE App
+🔑 Note: This App have digital signature from mega company.
 [megabox.exe](http://)
 
+#### Screenshot
